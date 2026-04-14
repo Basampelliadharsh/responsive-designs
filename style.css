@@ -20,3 +20,10 @@
   width: 100%;
   max-width: 165px;
 }
+.hero-image {
+  background-image: url('./images/illustration-mockups.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 300px;
+}
